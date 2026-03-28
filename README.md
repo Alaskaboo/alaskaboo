@@ -23,14 +23,7 @@ I am a current master's student, and my main research area is "**Semiconductor I
 
 ## 📊 This week's coding status
 
-![My Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Alaskaboo&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true)
-
-## 📈 GitHub Stats
-
-
-<p align="center">
-  <img height="170" src="https://streak-stats.demolab.com?user=Alaskaboo&theme=transparent&hide_border=true" />
-</p>
+![My Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Alaskaboo&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true)   <img height="170" src="https://streak-stats.demolab.com?user=Alaskaboo&theme=transparent&hide_border=true" />
 
 ---
 
@@ -59,38 +52,14 @@ I am a current master's student, and my main research area is "**Semiconductor I
   <img src="https://img.shields.io/badge/C%2B%2B-333333?style=flat-square&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-333333?style=flat-square&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Markdown-333333?style=flat-square&logo=markdown&logoColor=white" />
-</p>
-
-### AI / CV
-<p>
   <img src="https://img.shields.io/badge/PyTorch-333333?style=flat-square&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenCV-333333?style=flat-square&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-333333?style=flat-square&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-333333?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/YOLO-333333?style=flat-square&logoColor=white" />
   <img src="https://img.shields.io/badge/PySide6-333333?style=flat-square&logo=qt&logoColor=white" />
-</p>
-
-### Development
-<p>
-  <img src="https://img.shields.io/badge/Linux-333333?style=flat-square&logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-333333?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-333333?style=flat-square&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Django-333333?style=flat-square&logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring%20Boot-333333?style=flat-square&logo=springboot&logoColor=white" />
   <img src="https://img.shields.io/badge/Redis-333333?style=flat-square&logo=redis&logoColor=white" />
   <img src="https://img.shields.io/badge/Elasticsearch-333333?style=flat-square&logo=elasticsearch&logoColor=white" />
 </p>
-
----
-
-## 🌱 Currently Learning
-
-- Advanced object detection architectures  
-- Transformer-based vision models  
-- Model deployment and AI system design  
-- LLM-related engineering workflows  
-- Cross-disciplinary AI applications in scientific problems  
 
 ---
 
