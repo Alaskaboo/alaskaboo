@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alaskaboo)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alaskaboo)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alaskaboo)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alaskaboo)
 <!--
 **Alaskaboo/alaskaboo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
