@@ -27,7 +27,6 @@ I am a current master's student, and my main research area is "**Semiconductor I
   <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Alaskaboo&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true" />
   <img height="165" src="https://streak-stats.demolab.com?user=Alaskaboo&theme=transparent&hide_border=true" />
 </p>
----
 
 ## 🚀 Representative project
 
