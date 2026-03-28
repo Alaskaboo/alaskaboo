@@ -49,9 +49,7 @@ I am a current master's student, and my main research area is "**Semiconductor I
   <img src="https://img.shields.io/badge/Python-333333?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-333333?style=flat-square&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/C-333333?style=flat-square&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-333333?style=flat-square&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-333333?style=flat-square&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Markdown-333333?style=flat-square&logo=markdown&logoColor=white" />
   <img src="https://img.shields.io/badge/PyTorch-333333?style=flat-square&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenCV-333333?style=flat-square&logo=opencv&logoColor=white" />
   <img src="https://img.shields.io/badge/PySide6-333333?style=flat-square&logo=qt&logoColor=white" />
