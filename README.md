@@ -39,7 +39,7 @@ I am a current master's student, and my main research area is "**Semiconductor I
 
 ## 🏆 Works
 
-- [1] X. Wu, M. Ma, H. Yin, S. Wu, H. Zhang, **K. Cai**, X. Jiang, D. Mei,SrZnGeSe4: An Infrared Nonlinear Optical Crystal Material with Wide Transmission Range and Large SHG Response, Inorganic Chemistry 64 (40) (2025) 19939–19944.
+- [1] X. Wu, M. Ma, H. Yin, S. Wu, H. Zhang, **K. Cai**, X. Jiang, D. Mei,SrZnGeSe4: <a href="https://pubs.acs.org/doi/10.1021/acs.inorgchem.5c03409"> An Infrared Nonlinear Optical Crystal Material with Wide Transmission Range and Large SHG Response, Inorganic Chemistry 64 (40) (2025) 19939–19944.</a>
 - 1 patent · 2 software copyright registrations · actively participated in competitions, with 35 awards in total, including 3 national-level, 7 municipal-level, and 25 university-level awards
 - Built a solid foundation in both software engineering and AI research
 - Interested in turning ideas into practical systems and meaningful research outcomes
